@@ -1,4 +1,6 @@
 I started off by attempting my most loathed task, trying to get code to work. I did sucessfully georeference a 1965 aerial photo of the Saint Mary Anglican Church and its surroudning areas, adding 3 ground control points. It was hard to add anymore because although there were many more buildings such as farmhouses around the churches, these have all since vanished, becoming dense areas of trees. This is actually something I find interesting to look at on old aerial photos of Orleans. If a house is destroyed or abandoned, I suppose trees are wont to grow in the wood. So every time I see a dense area of trees today, I can probably assume a house was once there.
 
 Anyways, I did try to put this code into first the index2.html file I made, following all the steps, with the exception that I changed the historical map layer to my own historical map and the coordinates to the coordinates of the church. Upon viewing this in my brower, I was met with a white screen. It didn't work. But at least it was not showing an error 404 anymore, so not a complete fail. Maybe just a three quarters fail.
-I then for some reason tried to put bits of code from the index2.html file into the index.html file because I figured they could be compiled. It did not work.
+I then for some reason tried to put bits of code from the index2.html file into the index.html file because I figured they could be compiled. It did not work, showing a white screen. I hope to get this to work by Friday.
+
+
