@@ -3,4 +3,6 @@ I started off by attempting my most loathed task, trying to get code to work. I 
 Anyways, I did try to put this code into first the index2.html file I made, following all the steps, with the exception that I changed the historical map layer to my own historical map and the coordinates to the coordinates of the church. Upon viewing this in my brower, I was met with a white screen. It didn't work. But at least it was not showing an error 404 anymore, so not a complete fail. Maybe just a three quarters fail.
 I then for some reason tried to put bits of code from the index2.html file into the index.html file because I figured they could be compiled. It did not work, showing a white screen. I hope to get this to work by Friday.
 
+CONSOLIDATION DOCUMENT
+
 
